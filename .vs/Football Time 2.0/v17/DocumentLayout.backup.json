@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Football Time 2.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C953F9C5-F6BA-3FE8-E6A6-F5ED72543C17}|Assembly-CSharp.csproj|c:\\football time 2.0\\assets\\scripts\\statemashin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C953F9C5-F6BA-3FE8-E6A6-F5ED72543C17}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statemashin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StateMashin.cs",
+              "DocumentMoniker": "C:\\Football Time 2.0\\Assets\\Scripts\\StateMashin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StateMashin.cs",
+              "ToolTip": "C:\\Football Time 2.0\\Assets\\Scripts\\StateMashin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StateMashin.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:47:20.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
